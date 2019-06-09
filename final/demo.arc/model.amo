@@ -1,0 +1,9 @@
+VERSION 14.0.1.25
+UNITS Meters Seconds
+RNSET 0
+DRAWPOS minx -27.6096 maxx 26.174596 miny -17.0688 maxy 25.898856 minz 0 maxz 6.096 trx 0 try 0
+MOVESYS name conv
+	SYSPOS endx 1
+PROCSYS name demo~
+	SYSPOS endx 1
+CONTROL snaplen 3 Hours counts 365 autorep

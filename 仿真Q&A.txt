@@ -1,0 +1,16 @@
+1.vv是对哪些参数论证？输入？输出？有固定套路吗？还是仅仅思路？（误差或不等式）
+validation:系统模型有效性的确认，服务规则/vip制度/定性/定量 对整个模型进行验证
+		数学上的验证（第六章）， 仿真模型输出的绩效指标和观测所得的指标对比，/多方面佐证，书上的佐证技术
+verification:仿真模型正确性的确认：
+
+document: maintain a written assumptions document and perform a structured walk-through
+
+2.评分标准
+	选题难度
+	完成质量
+	工作量
+	文档完善程度
+3.要交的
+	仿真报告
+	仿真模型
+	vv文档
